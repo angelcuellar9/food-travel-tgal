@@ -1,1 +1,1 @@
-print = ("nuevo mundo")
+print("nuevo mundo")
